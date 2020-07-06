@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Servidor\bin\Debug\Servidor.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Servidor\bin\Debug\Servidor.exe
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Servidor\bin\Debug\Servidor.pdb
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Servidor\bin\Debug\Codificador.dll
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Servidor\bin\Debug\Codificador.pdb
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Servidor\obj\Debug\Servidor.exe
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Servidor\obj\Debug\Servidor.pdb
+C:\Users\gise\Downloads\SistemaRegistro\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\gise\Downloads\SistemaRegistro\Servidor\obj\Debug\Servidor.exe
+C:\Users\gise\Downloads\SistemaRegistro\Servidor\obj\Debug\Servidor.pdb

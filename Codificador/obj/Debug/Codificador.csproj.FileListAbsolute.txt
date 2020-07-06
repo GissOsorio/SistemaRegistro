@@ -1,0 +1,5 @@
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Codificador\bin\Debug\Codificador.dll
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Codificador\bin\Debug\Codificador.pdb
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Codificador\obj\Debug\Codificador.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Codificador\obj\Debug\Codificador.dll
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\Codificador\obj\Debug\Codificador.pdb

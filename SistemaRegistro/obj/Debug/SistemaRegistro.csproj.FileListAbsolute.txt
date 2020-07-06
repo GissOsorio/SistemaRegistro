@@ -1,0 +1,16 @@
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\bin\Debug\SistemaRegistro.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\bin\Debug\SistemaRegistro.exe
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\bin\Debug\SistemaRegistro.pdb
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\obj\Debug\SistemaRegistro.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\obj\Debug\SistemaRegistro.frmLogin.resources
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\obj\Debug\SistemaRegistro.frmJornada.resources
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\obj\Debug\SistemaRegistro.frmResultadoConsulta.resources
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\obj\Debug\SistemaRegistro.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\obj\Debug\SistemaRegistro.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\obj\Debug\SistemaRegistro.exe
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\obj\Debug\SistemaRegistro.pdb
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\bin\Debug\Codificador.dll
+c:\users\owner\documents\visual studio 2015\Projects\SistemaRegistro\SistemaRegistro\bin\Debug\Codificador.pdb
+C:\Users\gise\Downloads\SistemaRegistro\SistemaRegistro\bin\Debug\SistemaRegistro.exe.config
+C:\Users\gise\Downloads\SistemaRegistro\SistemaRegistro\obj\Debug\SistemaRegistro.exe
+C:\Users\gise\Downloads\SistemaRegistro\SistemaRegistro\obj\Debug\SistemaRegistro.pdb
